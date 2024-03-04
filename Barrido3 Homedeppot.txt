@@ -1,0 +1,995 @@
+Barrido3 Homedeppot
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                </i>
+               </a>
+              </div>
+             </article>
+             <article class="card col-ha s6 m2">
+              <header class="promo-icon">
+               <a class="gtm_class" href="/herramientas/herramientas-manuales/espatulas-y-llanas">
+                <img alt="Espátulas" class="card__image lazyload" src="https://cdn.homedepot.com.mx/departamentos/22-263_Impermeabilizantes/2022/S-espatulas.jpg"/>
+               </a>
+              </header>
+              <div>
+               <a class="gtm_class link link--block link_icon__right align--center" href="/herramientas/herramientas-manuales/espatulas-y-llanas">
+                Espátulas
+                <i class="ithd ithd__chevron ithd--special">
+                </i>
+               </a>
+              </div>
+             </article>
+             <article class="card col-ha s6 m2" style="margin-right:auto;">
+              <header class="promo-icon">
+               <a class="gtm_class" href="/pinturas/resanadores#facet:&amp;productBeginIndex:0&amp;facetLimit:&amp;orderBy:&amp;pageView:grid&amp;minPrice:&amp;maxPrice:&amp;pageSize:&amp;">
+                <img alt="Resanadores" class="card__image lazyload" src="https://cdn.homedepot.com.mx/departamentos/22-263_Impermeabilizantes/2022/S-resanadores.jpg"/>
+               </a>
+              </header>
+              <div>
+               <a class="gtm_class link link--block link_icon__right align--center" href="/pinturas/resanadores#facet:&amp;productBeginIndex:0&amp;facetLimit:&amp;orderBy:&amp;pageView:grid&amp;minPrice:&amp;maxPrice:&amp;pageSize:&amp;">
+                Resanadores
+                <i class="ithd ithd__chevron ithd--special">
+                </i>
+               </a>
+              </div>
+             </article>
+            </section>
+            <section class="row-ha card-wrapper">
+             <article class="card col-ha s4">
+              <a class="banner-boost-ha link banner-boost-ha--image banner-boost-ha--image-left gtm_class" data-override="Láminas" href="/materiales-de-construccion/recubrimientos-para-techo/laminas#facet:&amp;productBeginIndex:0&amp;facetLimit:&amp;orderBy:&amp;pageView:grid&amp;minPrice:&amp;maxPrice:&amp;pageSize:&amp;" target="_blank">
+               <img alt="Láminas" class="card__image lazyload image banner-boost-ha__image" data-src="https://cdn.homedepot.com.mx/departamentos/22-263_Impermeabilizantes/2022/M-laminas.png" style="max-width:100px; margin-right:10px;"/>
+               <div class="banner-boost-ha__text" style="padding-left: 10px; padding-right: 10px;">
+                <p class="title--h4 title-helvetica--medium d--none d--l-block">
+                 Láminas
+                 <i class="ithd ithd__chevron ithd--special">
+                 </i>
+                </p>
+                <p class="title--h6 title-helvetica--medium d--block d--l-none align--center">
+                 Láminas
+                 <i class="ithd ithd__chevron ithd--special">
+                 </i>
+                </p>
+               </div>
+              </a>
+             </article>
+             <article class="card col-ha s4">
+              <a class="banner-boost-ha link banner-boost-ha--image banner-boost-ha--image-left gtm_class" data-override="Tejas" href="/SearchDisplay?searchType=&amp;advancedSearch=&amp;pageSize=20&amp;filterTerm=&amp;searchTermScope=&amp;storeId=10351&amp;pageView=grid&amp;manufacturer=&amp;urlLangId=-5&amp;sType=SimpleSearch&amp;metaData=%5BLjava.lang.String%3B%4035e75bdb&amp;catalogId=10101&amp;searchTerm=TejA&amp;resultCatEntryType=2&amp;showResultsPage=true&amp;minPrice=&amp;beginIndex=0&amp;top_category=&amp;maxPrice=&amp;langId=-5&amp;categoryFacetHierarchyPath=10001%2C10533&amp;categoryId=10533#facet:&amp;productBeginIndex:0&amp;facetLimit:&amp;orderBy:&amp;pageView:grid&amp;minPrice:&amp;maxPrice:&amp;pageSize:&amp;" target="_blank">
+               <img alt="Tejas" class="card__image lazyload image banner-boost-ha__image" data-src="https://cdn.homedepot.com.mx/departamentos/22-263_Impermeabilizantes/2022/M-tejas.png" style="max-width:100px; margin-right:10px;"/>
+               <div class="banner-boost-ha__text" style="padding-left: 10px; padding-right: 10px;">
+                <p class="title--h4 title-helvetica--medium d--none d--l-block">
+                 Tejas
+                 <i class="ithd ithd__chevron ithd--special">
+                 </i>
+                </p>
+                <p class="title--h6 title-helvetica--medium d--block d--l-none align--center">
+                 Tejas
+                 <i class="ithd ithd__chevron ithd--special">
+                 </i>
+                </p>
+               </div>
+              </a>
+             </article>
+             <article class="card col-ha s4">
+              <a class="banner-boost-ha link banner-boost-ha--image banner-boost-ha--image-left gtm_class" data-override="Tinacos" href="/plomeria/tinacos-y-cisternas/tinacos" target="_blank">
+               <img alt="Tinacos" class="card__image lazyload image banner-boost-ha__image" data-src="https://cdn.homedepot.com.mx/departamentos/22-263_Impermeabilizantes/2022/M-tinacos.png" style="max-width:100px; margin-right:10px;"/>
+               <div class="banner-boost-ha__text" style="padding-left: 10px; padding-right: 10px;">
+                <p class="title--h4 title-helvetica--medium d--none d--l-block">
+                 Tinacos
+                 <i class="ithd ithd__chevron ithd--special">
+                 </i>
+                </p>
+                <p class="title--h6 title-helvetica--medium d--block d--l-none align--center">
+                 Tinacos
+                 <i class="ithd ithd__chevron ithd--special">
+                 </i>
+                </p>
+               </div>
+              </a>
+             </article>
+            </section>
+           </div>
+          </div>
+          <!-- END Content_UI.jspf -->
+         </div>
+         <!-- END ContentRecommendation_Vertical_UI.jspf -->
+         <!-- END ContentRecommendation.jsp -->
+         <!-- END EMarketingSpot.jsp -->
+         <!-- BEGIN CatalogEntryRecommendation.jsp -->
+         <script type="text/javascript">
+          $(document).ready(function() {shoppingActionsJS.setCommonParameters('-5','10351','10101','G','$');
+                shoppingActionsServicesDeclarationJS.setCommonParameters('-5','10351','10101');
+        });
+        //Declare refresh controller which are used in pagination controls of SearchBasedNavigationDisplay -- both products and articles+videos
+
+        function declareControllerForSearchBasedNavigationContext() {/* this a local context..no need to define URL for this */
+        var myWidgetObj = $("#SearchProductRecommendationESpot_Widget_Widget_CatalogEntryRecommendation_701_3074457345618340021");
+        wcRenderContext.addRefreshAreaId("searchBasedNavigation_context", "SearchProductRecommendationESpot_Widget_Widget_CatalogEntryRecommendation_701_3074457345618340021");
+        var myRCProperties = wcRenderContext.getRenderContextProperties("searchBasedNavigation_context");
+
+        myWidgetObj.refreshWidget({renderContextChangedHandler: function(message, widget) {//var controller = this;
+                //var renderContext = this.renderContext;
+                var resultType = myRCProperties["resultType"];
+                if(resultType == "products" || resultType == "both"){myWidgetObj.refreshWidget("refresh", myRCProperties);
+                }},
+
+        postRefreshHandler: function(widget) {//var controller = this;
+                //var renderContext = this.renderContext;
+                cursor_clear();
+
+                var refreshUrl = controller.url;
+                var emsName = "";
+                var indexOfEMSName = refreshUrl.indexOf("emsName=", 0);
+                if(indexOfEMSName >= 0){emsName = refreshUrl.substring(indexOfEMSName+8);
+                        if (emsName.indexOf("&") >= 0) {emsName = emsName.substring(0, emsName.indexOf("&"));
+                                emsName = "script_" + emsName;
+                        }}if (emsName != "") {if ($("#"+emsName)) {var espot = $(".genericESpot",("#emsName").parent())[0];
+                        if (espot != null) {$(espot).addClass("emptyESpot");
+                        }}}wcTopic.publish("CMPageRefreshEvent");
+        }});
+
+};
+         </script>
+         <!-- END CatalogEntryRecommendation.jsp -->
+         <!--  BEGIN EMarketingSpot.jsp -->
+         <!-- END EMarketingSpot.jsp -->
+         <!-- BEGIN CatalogEntryRecommendation.jsp -->
+         <script type="text/javascript">
+          $(document).ready(function() {shoppingActionsJS.setCommonParameters('-5','10351','10101','G','$');
+                shoppingActionsServicesDeclarationJS.setCommonParameters('-5','10351','10101');
+        });
+        //Declare refresh controller which are used in pagination controls of SearchBasedNavigationDisplay -- both products and articles+videos
+
+        function declareControllerForSearchBasedNavigationContext() {/* this a local context..no need to define URL for this */
+        var myWidgetObj = $("#SearchProductRecommendationESpot_Widget_Widget_CatalogEntryRecommendation_701_3074457345618340020");
+        wcRenderContext.addRefreshAreaId("searchBasedNavigation_context", "SearchProductRecommendationESpot_Widget_Widget_CatalogEntryRecommendation_701_3074457345618340020");
+        var myRCProperties = wcRenderContext.getRenderContextProperties("searchBasedNavigation_context");
+
+        myWidgetObj.refreshWidget({renderContextChangedHandler: function(message, widget) {//var controller = this;
+                //var renderContext = this.renderContext;
+                var resultType = myRCProperties["resultType"];
+                if(resultType == "products" || resultType == "both"){myWidgetObj.refreshWidget("refresh", myRCProperties);
+                }},
+
+        postRefreshHandler: function(widget) {//var controller = this;
+                //var renderContext = this.renderContext;
+                cursor_clear();
+
+                var refreshUrl = controller.url;
+                var emsName = "";
+                var indexOfEMSName = refreshUrl.indexOf("emsName=", 0);
+                if(indexOfEMSName >= 0){emsName = refreshUrl.substring(indexOfEMSName+8);
+                        if (emsName.indexOf("&") >= 0) {emsName = emsName.substring(0, emsName.indexOf("&"));
+                                emsName = "script_" + emsName;
+                        }}if (emsName != "") {if ($("#"+emsName)) {var espot = $(".genericESpot",("#emsName").parent())[0];
+                        if (espot != null) {$(espot).addClass("emptyESpot");
+                        }}}wcTopic.publish("CMPageRefreshEvent");
+        }});
+
+};
+         </script>
+         <!-- END CatalogEntryRecommendation.jsp -->
+         <!-- BEGIN ContentCarousel.jsp -->
+         <!-- BEGIN ContentCarousel_UI.jspf -->
+         <!-- END ContentCarousel_UI.jspf -->
+         <!-- END ContentCarousel.jsp -->
+        </div>
+       </div>
+      </div>
+      <div class="row">
+       <div class="coll-full clearfix">
+        <div class="col12 slot5" data-slot-id="5">
+         <!--  BEGIN EMarketingSpot.jsp -->
+         <!-- BEGIN ContentRecommendation.jsp | Name: 263-22_DLseo -->
+         <!-- BEGIN ContentRecommendation_Vertical_UI.jspf -->
+         <div class="contentRecommendationWidget" id="contentRecommendationWidget_5_-2012_3074457345618340025">
+          <h2 id="title_5_-2012_3074457345618340025">
+           <!-- BEGIN ESpotTitle_UI.jspf -->
+           <!-- END ESpotTitle_UI.jspf -->
+          </h2>
+          <!-- BEGIN Content_UI.jspf -->
+          <div class="left_espot">
+          </div>
+          <!-- END Content_UI.jspf -->
+         </div>
+         <!-- END ContentRecommendation_Vertical_UI.jspf -->
+         <!-- END ContentRecommendation.jsp -->
+         <!-- END EMarketingSpot.jsp -->
+         <!-- BEGIN ContentRecommendation.jsp | Name: Widget_ContentRecommendation_701_3074457345618360504 -->
+         <!-- END ContentRecommendation.jsp -->
+         <!--  BEGIN EMarketingSpot.jsp -->
+         <!-- END EMarketingSpot.jsp -->
+        </div>
+       </div>
+      </div>
+     </div>
+     <!-- END HDMContentDisplayPageContainer.jsp -->
+    </div>
+   </div>
+   <div id="footerWrapper">
+    <!-- BEGIN Footer.jsp -->
+    <!-- BEGIN ContentRecommendation.jsp | Name: FooterStoreRibbon_Content -->
+    <!-- BEGIN ContentRecommendation_UI.jspf -->
+    <div class="contentRecommendationWidget" id="contentRecommendationWidget_FooterStoreRibbon_Content">
+     <div id="ci_espot__FooterStoreRibbon_Content">
+      <!-- BEGIN Content_UI.jspf -->
+      <div class="left_espot">
+       <div class="left_espot">
+        <style>
+         .legalesContainer {display: block;
+            border-top: 1px solid #eee;
+            padding: 5px;
+            text-align: right;
+            font-size: 14px;
+            color: #777;
+        }.legalesDIY {color: #3e7697;
+            display: block;
+            padding: 5px;
+        }.legalesDIY:hover {text-decoration: underline;
+        }
+        </style>
+        <div class="divContainer legalesContainer">
+         <a class="legalesDIY link" href="https://www.homedepot.com.mx/promociones-de-temporada-en-linea" target="_blank">
+          † Consulta términos y condiciones de las promociones vigentes
+         </a>
+        </div>
+       </div>
+       <style>
+        .footerPhone a i {font-style: normal;
+    font-size: 22px;
+    margin-right: 3px;
+}.footerPhone a.first i {margin-left: 5px;
+    font-size: 18px;
+}.footerPhone #LPWebFooter div{display: inline-block !important;
+    }
+       </style>
+       <div class="u__bgColor--faded">
+        <div class="grid isBound grid--center-verticle">
+         <div class="col__6-12">
+          <p class="footer__tagline" id="footerTagline">
+           <strong>
+            Haces más, logras más
+           </strong>
+           <span class="footer__trademark">
+            ®
+           </span>
+          </p>
+         </div>
+         <div class="col__6-12 u__text-align--right">
+          <p class="footerPhone">
+           ¿Podemos ayudarte?
+           <span id="LPWebFooter">
+           </span>
+           <a class="footerPhone__link txt4" href="tel:+52800-004-6633" title="Call The Home Depot">
+            <i class="ithd-old-phone">
+            </i>
+            Llámanos al 800 004 6633
+           </a>
+          </p>
+         </div>
+        </div>
+       </div>
+      </div>
+      <!-- END Content_UI.jspf -->
+     </div>
+    </div>
+    <!-- END ContentRecommendation_UI.jspf -->
+    <!-- END ContentRecommendation.jsp -->
+    <!-- Begin StoreLocatorPopupResults.jsp -->
+    <script type="text/javascript">
+     $(document).ready(function() {/* StoreLocatorControllersDeclarationJS.setControllerURL('provinceSelectionsPopupController','/AjaxProvinceSelectionDisplayView?catalogId=10101&amp;fromPage=popUp&amp;storeId=10351&amp;langId=-5');
+                StoreLocatorControllersDeclarationJS.setControllerURL('citySelectionsPopupController','/AjaxCitySelectionDisplayView?catalogId=10101&amp;fromPage=popUp&amp;storeId=10351&amp;langId=-5');
+                StoreLocatorControllersDeclarationJS.setControllerURL('storeLocatorResultsPopupController','/AjaxStoreLocatorResultsView?catalogId=10101&amp;orderId=&amp;storeId=10351&amp;langId=-5');
+                StoreLocatorControllersDeclarationJS.setControllerURL('selectedStoreListPopupController','/AjaxSelectedStoreListView?catalogId=10101&amp;orderId=&amp;fromPage=StoreDetailsPopup&amp;storeId=10351&amp;langId=-5'); */
+                MessageHelper.setMessage("MISSING_CITY", "Selecciona tu ciudad.");
+                MessageHelper.setMessage("EXCEED_PHYSICAL_STORE_SIZE", "Tu lista de tiendas favoritas está llena, elimina una para poder agregar otra tienda favorita.");
+        });
+        var currentCookieVal = "";
+        var cookieName ="Store_Defaulted_"+WCParamJS.storeId;
+        var name = cookieName + "=";
+    var ca = document.cookie.split(';');
+    for(var i = 0; i < ca.length; i++) {var c = ca[i];
+        while (c.charAt(0) == ' ') {c = c.substring(1);
+        }if (c.indexOf(name) == 0) {currentCookieVal = c.substring(name.length, c.length);
+            break;
+        }}$(document).ready(function() {if(currentCookieVal != 'false'){parseWidget("storeLocatorPopupResults");
+
+                }});
+    </script>
+    <script>
+     //Delcare a service to change the default store and update the cookie...
+        wcService.declare({id: "changeDefaultStore",
+                actionId: "changeDefaultStore",
+                url: "HDMAjaxSetDefaultStoreCmd",
+                formId: ""              ,successHandler: function(serviceResponse) {document.location.reload();
+                },failureHandler: function(serviceResponse) {MessageHelper.displayErrorMessage(storeNLS["INV_STATUS_RETRIEVAL_ERROR"]);
+                        cursor_clear();
+                }});
+    </script>
+    <div class="popup-temporal" data-widget-type="wc.WCDialog" id="StoreLocatorDefaultPopup" style="display:none">
+     <div class="widget_store_details_popup" id="contPopUp">
+      <!-- Top Border Styling -->
+      <div class="top">
+       <div class="left_border">
+       </div>
+       <div class="middle">
+       </div>
+       <div class="right_border">
+       </div>
+      </div>
+      <div class="clear_float">
+      </div>
+      <!-- Main Content Area -->
+      <div class="middle">
+       <div class="content_left_border">
+        <div class="content_right_border">
+         <div class="content">
+          <div class="header">
+           <a class="close" href="javascript:void(0);" id="WC_InventoryStatus_Link" onclick="Javascript:storeLocatorJS.storeLocatorPopupCancel();" title="Cerrar">
+           </a>
+           <div class="clear_float">
+           </div>
+          </div>
+          <div class="info-popup">
+           <span class="ithd-store">
+           </span>
+           <h2 class="titulo">
+            Elige tu tienda
+           </h2>
+           <span class="text">
+            Indícanos tu tienda de preferencia dentro de tu localidad para ver los productos y promociones disponibles para ti.
+           </span>
+          </div>
+          <!-- Search Stores -->
+          <div class="gift_content">
+           <div class="location_select" id="WC_StoreLocator_div_28">
+            <div class="location_select_button" id="WC_StoreLocator_div_29">
+            </div>
+           </div>
+           <span class="link cancel" style="display:none">
+            <span class="arrow-left">
+            </span>
+            Cancelar
+           </span>
+           <div id="location" style="display:block">
+            <form id="searchByGeoNodeFormPopup" name="searchByGeoNodeFormPopup">
+             <div class="location_select" id="WC_StoreLocator_div_29" style="display:none">
+              <div class="location_select_label" id="WC_StoreLocator_div_30">
+               <label for="selectPopupCountry">
+                ???SELECT_COUNTRY???
+               </label>
+              </div>
+              <div class="location_select_form" id="WC_StoreLocator_div_31">
+              </div>
+             </div>
+             <div class="location_select" id="WC_StoreLocator_div_32">
+              <div class="location_select_label" id="WC_StoreLocator_div_33">
+               <span class="required-field">
+                *
+               </span>
+               <label for="selectState">
+                Estado
+               </label>
+              </div>
+              <div class="location_select_form" id="WC_StoreLocator_div_34">
+               <div id="provinceSelectionsPopup">
+                <!-- BEGIN ProvinceSelectionDisplay.jsp -->
+                <input id="fromPageState" type="hidden" value="defaultSLPopUp"/>
+                <select class="drop_down_country" id="selectPopupState" name="selectPopupState" onchange="JavaScript:storeLocatorJS.changeProvincePopupSelection(this.options[this.selectedIndex].value);StoreLocatorStateCitiesJS.formCitiesbyStateGeonode(this.value);" title="El campo Ciudad se actualizará para que coincida con tu selección">
+                </select>
+                <!-- END ProvinceSelectionDisplay.jsp -->
+               </div>
+              </div>
+             </div>
+             <div class="location_select" id="WC_StoreLocator_div_35">
+              <div class="location_select_label" id="WC_StoreLocator_div_36">
+               <span class="required-field">
+                *
+               </span>
+               <label for="selectCity">
+                Ciudad
+               </label>
+              </div>
+              <div class="location_select_form" id="WC_StoreLocator_div_37">
+               <div id="citySelectionsPopup">
+                <!-- BEGIN CitySelectionDisplay.jsp -->
+                <input id="fromPageCity" type="hidden" value="defaultSLPopUp"/>
+                <select class="drop_down_country" id="selectPopupCity" name="selectPopupCity" onchange="javaScript:storeLocatorJS.changeCityPopupSelection(this.options[this.selectedIndex].value,this);">
+                 <option disabled="disabled" selected="selected" value="0">
+                  Seleccione una ciudad
+                 </option>
+                </select>
+                <!-- END CitySelectionDisplay.jsp -->
+               </div>
+              </div>
+             </div>
+             <div class="location_select" id="WC_StoreLocator_div_38">
+              <div class="location_select_button" id="WC_StoreLocator_div_39">
+               <a class="button_primary" href="javascript:void(0);" id="cityGoPopup" onclick="Javascript:setCurrentId('cityGoPopup'); storeLocatorJS.refreshResultsFromCityPopup(document.searchByGeoNodeFormPopup, 'StoreDetailsPopup');" role="button">
+                <div class="left_border">
+                </div>
+                <div class="button_text">
+                 Buscar
+                </div>
+                <div class="right_border">
+                </div>
+               </a>
+              </div>
+             </div>
+            </form>
+            <br clear="all"/>
+           </div>
+          </div>
+          <span class="spanacce" id="storeLocatorResults_ACCE_Label">
+           ???ACCE_Region_Store_Result_List???
+          </span>
+          <div id="stores_searchPopup">
+           <div aria-labelledby="storeLocatorResults_ACCE_Label" arialiveid="ariaMessage" ariamessage="Mostrar actualizada la lista de resultados de la tienda" declarefunction="StoreLocatorControllersDeclarationJS.storeLocatorResultsPopupRefreshController()" id="storeLocatorPopupResults" refreshurl="/AjaxStoreLocatorResultsView?catalogId=10101&amp;orderId=&amp;storeId=10351&amp;langId=-5" role="region" wctype="RefreshArea" widgetid="storeLocatorPopupResults">
+            <!-- BEGIN StoreLocatorResults.jsp -->
+            <!-- END StoreLocatorResults.jsp -->
+           </div>
+          </div>
+          <!-- End Search Stores -->
+          <div class="clear_float">
+          </div>
+          <div class="body" id="Store_Details_2059689">
+          </div>
+          <div class="clear_float">
+          </div>
+          <!-- End content Section -->
+         </div>
+         <!-- End content_right_border -->
+        </div>
+        <!-- End content_left_border -->
+       </div>
+      </div>
+      <div class="clear_float">
+      </div>
+      <!-- Bottom Border Styling -->
+      <div class="bottom">
+       <div class="left_border">
+       </div>
+       <div class="middle">
+       </div>
+       <div class="right_border">
+       </div>
+      </div>
+      <div class="clear_float">
+      </div>
+     </div>
+    </div>
+    <div class="clear_float">
+    </div>
+    <script type="text/javascript">
+     $(document).ready(function() {$('#StoreLocatorDefaultPopup #contPopUp .arrowD2').on('click',function(){if($('#StoreLocatorDefaultPopup #location').hasClass('active')){$('#StoreLocatorDefaultPopup #WC_StoreLocator_div_28').css('display','block');
+                                $('#StoreLocatorDefaultPopup #location').slideUp().removeClass('active');
+                                //$('#StoreLocatorDefaultPopup .dijitDialogPaneContent').css('height',$('#StoreLocatorDefaultPopup .dijitDialogPaneContent').height() + $('#StoreLocatorDefaultPopup #contPopUp #location').height());
+                                $('#StoreLocatorDefaultPopup #stores_searchPopup').slideUp().removeClass('active');
+                                $(this).removeClass('active');
+                        }else{$('#StoreLocatorDefaultPopup #contPopUp .cancel').fadeIn();
+                                $('#StoreLocatorDefaultPopup #WC_StoreLocator_div_28').css('display','none');
+                                $('#StoreLocatorDefaultPopup #location').slideDown().addClass('active');
+                                $('#StoreLocatorDefaultPopup #stores_searchPopup').slideDown().addClass('active');
+                                $(this).addClass('active');
+                        }});
+                $('#StoreLocatorDefaultPopup #contPopUp .cancel').on('click',function(){$(this).css('display','none');
+                        $('#StoreLocatorDefaultPopup #WC_StoreLocator_div_28').css('display','block');
+                        $('#StoreLocatorDefaultPopup #location').css('display','none').removeClass('active');
+
+                });
+
+
+        });
+    </script>
+    <!-- End StoreLocatorPopupResults.jsp -->
+    <div aria-label="Contenido pie de página" id="footer" role="navigation">
+     <div id="footerRow1">
+      <div class="section" id="footerCustomerServiceSection">
+       <div class="header">
+        <a class="toggle" data-toggle="footerCustomerServiceSection" href="#" role="button">
+         <span class="spanacce" id="footerCustomerServiceSection_div_ACCE_Label">
+          ¿Cómo podemos ayudarte?
+         </span>
+        </a>
+        <h3>
+         ¿Cómo podemos ayudarte?
+        </h3>
+       </div>
+       <ul>
+        <li>
+         <a href="/ayuda" id="footerHelpLink">
+          Ayuda
+         </a>
+        </li>
+        <li>
+         <a href="https://facturacion.homedepot.com.mx/" id="footerFacturacionLink" target="_blank">
+          Facturación electrónica
+         </a>
+        </li>
+        <li>
+         <a href="https://proveedores.homedepot.com.mx/" id="footerVendorLink" target="_blank">
+          Soy proveedor
+         </a>
+        </li>
+        <li>
+         <a href="http://tuopinion.homedepot.com.mx/" id="footerAtencionLink" target="_blank">
+          Cuéntanos ¿cómo te atendimos?
+         </a>
+        </li>
+        <li>
+         <a href="https://www.homedepot.com.mx/contactanos" id="footerContactUsLink">
+          Contáctanos
+         </a>
+        </li>
+        <li>
+         <a href="tel:+52800-004-6633" title="Call The Home Depot">
+          <i style="font-size: 20px;line-height: 0;">
+          </i>
+          Compra ahora 800 004 6633
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="section" id="footerCorporateInfoSection">
+       <div class="header">
+        <a class="toggle" data-toggle="footerCorporateInfoSection" href="#" role="button">
+         <span class="spanacce" id="footerCorporateInfoSection_div_ACCE_Label">
+          Sitios recomendados
+         </span>
+        </a>
+        <h3>
+         Sitios recomendados
+        </h3>
+       </div>
+       <ul>
+        <li>
+         <a href="/profesionales" id="footerProfesionalesLink">
+          Ventas a profesionales
+         </a>
+        </li>
+        <li>
+         <a href="http://socioexpertohomedepot.com/" id="footerSocioLink">
+          Socio experto
+         </a>
+        </li>
+        <li>
+         <a href="http://blog.homedepot.com.mx/" id="footeBlogLink" target="_blank">
+          Blog
+         </a>
+        </li>
+        <li>
+         <a href="https://blog.homedepot.com.mx/club-jardineria/" id="footerJardinLink" target="_blank">
+          Club de jardinería
+         </a>
+        </li>
+        <li>
+         <a href="http://www.homedepot.com/" id="footerHdUsaLink" target="_blank">
+          The Home Depot USA
+         </a>
+        </li>
+        <li>
+         <a href="http://www.homedepot.ca/" id="footerHdCanadaLink" target="_blank">
+          The Home Depot Canadá
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="section" id="footerExploreSection">
+       <div class="header">
+        <a class="toggle" data-toggle="footerExploreSection" href="#" role="button">
+         <span class="spanacce" id="footerExploreSection_div_ACCE_Label">
+          The Home Depot
+         </span>
+        </a>
+        <h3>
+         The Home Depot
+        </h3>
+       </div>
+       <ul>
+        <li>
+         <a href="https://newsroom.homedepot.com.mx/nosotros/" id="footerAboutUsLink">
+          Acerca de nosotros
+         </a>
+        </li>
+        <li>
+         <a href="https://newsroom.homedepot.com.mx/" id="footeNewsLink">
+          Sala de prensa
+         </a>
+        </li>
+        <li>
+         <a href="/responsabilidad-social" id="footerResponsabilidadLink">
+          Responsabilidad social
+         </a>
+        </li>
+        <li>
+         <a href="http://carreras.homedepot.com.mx/" id="footerCarrerasLink" target="_blank">
+          Haz carrera con nosotros
+         </a>
+        </li>
+        <li>
+         <a href="/quiero-ser-proveedor-thd" id="footerSurveyLink">
+          Quiero ser proveedor
+         </a>
+        </li>
+        <li>
+         <a href="/mapa-sitio" id="footerSitemapLink">
+          Mapa del sitio
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="section" id="footerNewsletterSection">
+       <div class="header">
+        <a class="toggle" data-toggle="footerExploreSection" href="#" role="button">
+         <span class="spanacce" id="footerExploreSection_div_ACCE_Label">
+          [PROPERTIES;FOOTER_EXPLORE;Explore]
+         </span>
+        </a>
+        <h3>
+         Suscríbete
+        </h3>
+       </div>
+       <div class="newsletter" id="subscribe_newsletter">
+        <span>
+         ¡Entérate de nuestras promociones antes que nadie!
+        </span>
+        <form action="HDMGuestusersOptInCmd" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="">    
+         <div class="input-append forma-newsletter">
+          <input id="mce-EMAIL" name="EMAIL" placeholder="Ingresa tu correo" style="width:130px\9;" type="email"/>
+          <input id="storeId" name="storeId" type="hidden" value="10351"/>
+          <input id="catalogId" name="catalogId" type="hidden" value="10101"/>
+          <input id="langId" name="langId" type="hidden" value="-5"/>
+          <button class="btn btn2" id="mc-embedded-subscribe" name="subscribe">
+           Suscribir
+          </button>
+          <div class="mcsDivInputContainer">
+           <input name="b_d6966179165e9645f1942e836_72be5b2d6d" type="text" value=""/>
+          </div>
+         </div>
+        </form>
+       </div>
+       <!-- BEGIN ContentRecommendation.jsp | Name: FooterStoreNewsletter_Content -->
+       <!-- BEGIN ContentRecommendation_UI.jspf -->
+       <div class="contentRecommendationWidget" id="contentRecommendationWidget_FooterStoreNewsletter_Content">
+        <div id="ci_espot__FooterStoreNewsletter_Content">
+         <!-- BEGIN Content_UI.jspf -->
+         <div class="left_espot">
+          <style>
+           span.discSuscribe {font-size: 12px;
+        margin-bottom: 13px;
+        margin-top: -12px;
+        display: block;
+        color: #999;
+    }span.discSuscribe a {color: #3e7697;
+    }span.discSuscribe a:hover {text-decoration: underline;
+    }.copyright-mobile {display: none;
+    }.social .icon .icon-tiktok {font-size: 55px;
+
+    }.icon-tiktok::before {content: '';
+        display: block;
+        background-image: url('https://cdn.homedepot.com.mx/assets/icons/thd-tiktok-bco2.svg');
+        position: relative;
+        width: 30px;
+        height: 30px;
+        top: 0px;
+        left: 0px;
+    }@media screen and (max-width: 800px) {span.discSuscribe {margin-top: 5px;
+        }span.suscribeText {display: none;
+        }}@media only screen and (max-width: 767px) {.copyright-mobile {text-align: center;
+            position: absolute;
+            display: block !important;
+            bottom: -50px;
+        }.copy-mobile {font-size: 10px;
+            margin: auto;
+        }}
+          </style>
+          <span class="discSuscribe">
+           Al dar clic
+           <span class="suscribeText">
+            en "Suscribir"
+           </span>
+           aceptas
+           <a href="/terminos-condiciones">
+            términos y condiciones
+           </a>
+          </span>
+          <div class="social">
+           <a class="icon" href="https://www.facebook.com/thehomedepotmx" target="_blank">
+            <i class="icon-facebook2">
+            </i>
+           </a>
+           <a class="icon" href="https://www.twitter.com/thehomedepotmx" target="_blank">
+            <i class="icon-twitter2">
+            </i>
+           </a>
+           <a class="icon" href="https://www.youtube.com/thehomedepotmx" target="_blank">
+            <i class="icon-youtube">
+            </i>
+           </a>
+           <a class="icon" href="https://pinterest.com/thehomedepotmx/" target="_blank">
+            <i class="icon-social-pinterest">
+            </i>
+           </a>
+           <a class="icon" href="https://www.instagram.com/thehomedepotmx" target="_blank">
+            <i class="icon-instagram">
+            </i>
+           </a>
+           <a class="icon" href="https://www.tiktok.com/@thehomedepotmx" target="_blank">
+            <i class="icon-tiktok">
+            </i>
+           </a>
+          </div>
+          <div class="copyright-mobile">
+           <p class="copy-mobile">
+            ©
+            <span id="copy-year">
+             <script>
+              document.getElementById('copy-year').appendChild(document.createTextNode(new Date().getFullYear()))
+             </script>
+            </span>
+            Homer TLC. Inc. Todos los derechos reservados. Aviso de privacidad. Políticas de devolución. El uso de
+        este sitio está sujeto a ciertos términos de uso que requieren un acuerdo legal entre Usted y Home Depot México, S.
+        de R.L. de C.V.
+           </p>
+          </div>
+         </div>
+         <!-- END Content_UI.jspf -->
+        </div>
+       </div>
+       <!-- END ContentRecommendation_UI.jspf -->
+       <!-- END ContentRecommendation.jsp -->
+      </div>
+     </div>
+     <div id="footerRow2">
+      <!-- BEGIN ContentRecommendation.jsp | Name: FooterStoreLegales_Content -->
+      <!-- BEGIN ContentRecommendation_UI.jspf -->
+      <div class="contentRecommendationWidget" id="contentRecommendationWidget_FooterStoreLegales_Content">
+       <div id="ci_espot__FooterStoreLegales_Content">
+        <!-- BEGIN Content_UI.jspf -->
+        <div class="left_espot">
+         <style>
+          .contact-us .second-link {border-left: 1px solid #c9c9c9;
+        padding-left: 8px;
+        margin-left: 4px;
+    }.contact-us img {width: 10px !important;
+    }.contact-us div {display: inline-block !important;
+    }.contact-us i {font-style: normal;
+        font-size: 14px;
+        color: #3e7697;
+    }#footerRow2 .contact-us a:last-child {text-decoration: none;
+    }.contact-us a:hover {text-decoration: underline !important;
+    }@media (max-width:767px) {#footerRow2 .contact-us {text-align: center;
+            padding-bottom: 0px !important;
+            border-bottom: 1px solid #c9c9c9;
+            margin-bottom: 6px;
+            margin-top: 5px;
+        }#footerRow2 .services-footer-mobile {text-align: center;
+            border-bottom: 1px solid #c9c9c9;
+            margin-bottom: 6px;
+            margin-top: 5px;
+        }#contentRecommendationWidget_FooterStoreLegales_Content {background: #eee;
+            padding: 1px 0;
+        }.legal-footer-mobile {text-align: center;
+            margin-bottom: 5px;
+        }.legal-footer-mobile div {display: inline-block !important;
+        }.legal-footer-mobile .second-link {border-left: 1px solid #c9c9c9;
+            padding-left: 6px;
+            margin-left: 2px;
+        }.links-ft li {display: inline-block;
+            margin-right: 15px;
+            line-height: 2;
+        }.links-ft-legal li {display: inline-block;
+            margin-right: 1px;
+            line-height: 2;
+            text-align: center;
+        }}
+         </style>
+         <div class="display-mobile">
+          <span class="title">
+           ¿Necesitas ayuda?
+          </span>
+          <div class="contact-us">
+           <ul class="links-ft">
+            <li>
+             <span id="LPWAFooter">
+             </span>
+            </li>
+            <li>
+             <a href="tel:+528000046633">
+              <i class="ithd-old-phone">
+              </i>
+              Llámanos
+             </a>
+            </li>
+            <li>
+             <a href="/ayuda">
+              <i class="ithd-question">
+              </i>
+              Centro de Ayuda
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div class="services-footer-mobile">
+           <span class="title">
+            Estamos para servirte
+           </span>
+           <ul class="links-ft">
+            <li>
+             <a href="http://tuopinion.homedepot.com.mx/" target="_blank">
+              ¿Cómo te atendimos?
+             </a>
+            </li>
+            <li>
+             <a href="https://facturacion.homedepot.com.mx/" target="_blank">
+              Facturación
+             </a>
+            </li>
+            <li>
+             <a href="/profesionales">
+              Ventas a profesionales
+             </a>
+            </li>
+            <li>
+             <a href="https://blog.homedepot.com.mx/" target="_blank">
+              Blog
+             </a>
+            </li>
+           </ul>
+          </div>
+          <div class="legal-footer-mobile">
+           <ul class="links-ft-legal">
+            <li>
+             <a href="/terminos-condiciones">
+              Términos y condiciones
+             </a>
+            </li>
+            <li>
+             <a class="second-link" href="/aviso-privacidad">
+              Privacidad
+             </a>
+            </li>
+            <li>
+             <a class="second-link" href="/politica-devoluciones">
+              Devoluciones
+             </a>
+            </li>
+            <li>
+             <a class="second-link" href="/promociones-de-temporada">
+              Promociones
+             </a>
+            </li>
+            <li>
+             <a class="second-link" href="/condiciones-envios">
+              Envíos
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+         <div class="copyright">
+          <span class="info">
+           Legales
+          </span>
+          <ul class="links-ft">
+           <li>
+            <a href="/terminos-condiciones">
+             Términos y condiciones
+            </a>
+           </li>
+           <li>
+            <a href="/aviso-privacidad">
+             Aviso de privacidad
+            </a>
+           </li>
+           <li>
+            <a href="/politica-devoluciones">
+             Política de devoluciones
+            </a>
+           </li>
+           <li>
+            <a href="/gobierno-corporativo">
+             Gobierno corporativo
+            </a>
+           </li>
+           <li>
+            <a href="/promociones-de-temporada">
+             Condiciones de promociones
+            </a>
+           </li>
+           <li>
+            <a href="/condiciones-envios">
+             Condiciones de envíos
+            </a>
+           </li>
+          </ul>
+          <p class="copy">
+           © 2024 Homer TLC. Inc. Todos los derechos reservados. Aviso de privacidad. Políticas de devolución. El uso de este sitio está sujeto a ciertos términos de uso que requieren un acuerdo legal entre Usted y Home Depot México, S. de R.L. de C.V.
+          </p>
+         </div>
+        </div>
+        <!-- END Content_UI.jspf -->
+       </div>
+      </div>
+      <!-- END ContentRecommendation_UI.jspf -->
+      <!-- END ContentRecommendation.jsp -->
+     </div>
+    </div>
+    <style>
+    </style>
+    <script>
+     $(document).ready(function(){$("#mce-EMAIL").focus(function(){$(".errorMailF").remove();
+                })
+                $("#mc-embedded-subscribe").click(function(e){if($("#mce-EMAIL").val()==""){$(".errorMailF").remove();
+                                $("#mc-embedded-subscribe").after("<label class='errorMailF'>Campo obligatorio</label>");
+                                e.preventDefault();
+                        }else{if (/^[-\w.%+]{1,64}@(?:[A-Z0-9-]{1,63}\.){1,125}[A-Z]{2,63}$/i.test($("#mce-EMAIL").val())){return (true)
+                                }else{$(".errorMailF").remove();
+                                        $("#mc-embedded-subscribe").after("<label class='errorMailF'>Ingresa un correo electrï¿½nico vï¿½lido</label>");        
+                                        e.preventDefault();
+                                }}})
+        })
+    </script>
+    <span class="overlay-bloque">
+    </span>
+    <script type="text/javascript">
+     $(document).ready(function() {//Make sure page is loaded at this point
+                //Set requestedSubmitted to false
+                resetRequest();
+        });
+    </script>
+    <script type="text/javascript">
+     dataLayer.push({'userId': ''});
+    </script>
+    <script type="text/javascript">
+     $(document).ready(function() {if(document.getElementById("storeName") && document.getElementById("storeNumber"))
+                  {var storeName = document.getElementById("storeName").value ;
+                var storeNumber = document.getElementById("storeNumber").value ;
+                var storeInformation = storeName+' ('+storeNumber+')';
+       dataLayer.push({'tienda':  storeInformation });
+                }});
+    </script>
+    <!-- END Footer.jsp -->
+   </div>
+  </div>
+  <div class="testinggtm" id="testinggtm">
+  </div>
+  <script type="text/javascript">
+   dataLayer.push({'departmento':'', 'categoria':'', 'subcategoria':''});
+  </script>
+  <script type="text/javascript">
+   var categoryList = "";
+                const listItems = document.querySelectorAll('#widget_breadcrumb li');
+                 for (let i = 0; i < listItems.length; i++) {if(categoryList == ""){var currentCateogry = listItems[i].textContent.replace("/","").trim();      
+                        if("Inicio" != currentCateogry){categoryList = currentCateogry;
+                        }}else {categoryList = categoryList +">"+ listItems[i].textContent.replace("/","");
+                        }}ScarabQueue.push(['category', categoryList]);
+  </script>
+  <script type="text/javascript">
+   var categoryUrl = document.querySelector("link[rel='canonical']").href;
+     var keywords = document.querySelector('meta[name="keywords"]').content;
+     var title = document.querySelector('title').textContent;
+     var category = "";
+                const listOfItems = document.querySelectorAll('#widget_breadcrumb li');
+                 for (let i = 0; i < listOfItems.length; i++) {var currentCateogry = listOfItems[i].textContent.replace("/","").trim();
+                        if("Inicio" != currentCateogry){category = currentCateogry;
+                                }}ScarabQueue.push(['tag', 'content_pageview', {'content_title': title,
+            'content_url': categoryUrl,
+            'content_category': category,
+            'content_tag': category }]);
+  </script>
+  <script type="text/javascript">
+   $(document).ready(function(){var params = [];
+                                params.storeId=10351;
+                                params.catalogId=10101;
+                                params.customRequestType="ajaxCall";
+                                var authToken = "";
+                        if (null != document.getElementById("csrf_authToken")){authToken = document.getElementById("csrf_authToken").value;
+                                }if (null != authToken){$("input[name=csrf_authToken]").val(authToken);
+                                params.authToken = encodeURIComponent(authToken);
+                        }wcService.invoke("AjaxHDMEmarsysCustomerBrowsingInfo",params);
+                                });
+  </script>
+  <!-- Style sheet for print -->
+ </body>
+ <!-- END CategoryNavigationDisplay.jsp -->
+</html>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,902 @@
+Barrido4 coppel
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      }
+    }
+         </style>
+         <script>
+          var coll = document.getElementsByClassName("collapsed");
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function () {
+        // e.preventDefault();
+        this.classList.toggle("active");
+      });
+    }
+         </script>
+        </div>
+        <!-- END Content_UI.jspf -->
+       </div>
+      </div>
+      <!-- END ContentRecommendation_UI.jspf -->
+      <!-- END ContentRecommendation.jsp -->
+      <!-- END EMarketingSpot.jsp -->
+     </div>
+     <!-- Zona de terminos y condiciones -->
+     <div aria-label="Información de contenido" class="terminos-y-condiciones" id="footer_min" role="navigation">
+      <!--  BEGIN EMarketingSpot.jsp -->
+      <!-- BEGIN ContentRecommendation.jsp -->
+      <!-- JSPs References: HomePage.jsp, BundleDisplay.jsp , CategoryNavigationDisplay.jsp, CompareProductsDisplay.jsp
+                                          DynamicKitDisplay.jsp, PackageDisplay.jsp, ProductDisplay.jsp,
+                                          SearchResultDisplay.jsp, SubCategoryPage.jsp, TopCategoryPage.jsp
+                                           , Footer.jsp , OrderCancelNotify.jsp , OrderCreateNotify.jsp
+                                          OrderShipmentNotify.jsp, AccountActivationNotify.jsp, PasswordChangeNotify.jsp,
+                                          PasswordResetNotify.jsp, WishlistCreateNotify.jsp,  LandingPage.jsp,
+                                          ShippingDetailDisplay.jsp, ShopCartDisplay.jsp, StaticContent,
+                                          Static JSPs, Footer_UI.jsp, Header_UI.jsp, ProductDescription_UI.jsp
+                                          UserTime-->
+      <!-- BEGIN ContentRecommendation_UI.jspf -->
+      <div class="contentRecommendationWidget" id="contentRecommendationWidget_ems_terms_conditions_footer">
+       <div dataci_espot="_ems_terms_conditions_footer" dataci_toolbar="_espot" id="ci_espot__ems_terms_conditions_footer">
+        <!-- BEGIN Content_UI.jspf -->
+        <script type="text/javascript">
+         var textmonto = $('#montoslanding').text().replace("[MONTOMINIMO]", "1000").replace("[MONTOMAXIMO]","50000");
+                        $('#montoslanding').text(textmonto);
+        var textMontoPreg= $('#montosPregunta').text().replace("[MONTOMINIMO]",new Intl.NumberFormat().format("1000")).replace("[MONTOMAXIMO]",new Intl.NumberFormat().format("50000"));
+        $('#montosPregunta').text(textMontoPreg);
+
+        var textMontoMinimoDisp=$('#prestamoMinimo').text().replace("[MONTOMINIMO]",new Intl.NumberFormat().format("1000"));
+        $('#prestamoMinimo').text(textMontoMinimoDisp);
+
+        var textMontoAtrasado= $('#prestamoAtrasado').text().replace("[MONTOMINIMO]",new Intl.NumberFormat().format("1000")).replace("[MONTOMAXIMO]",new Intl.NumberFormat().format("50000"));
+        $('#prestamoAtrasado').text(textMontoAtrasado);
+        </script>
+        <div class="left_espot">
+         <div class="container">
+          <div class="links_terms">
+           <ul class="listado-terminos-y-condiciones" style="margin-top: 0">
+            <li>
+             <a class="taggedRefFooter" data-evento="clicMenuInferiorGeneral" data-nd1="Menú Inferior" data-nd2="Aviso de privacidad" data-nd3="" data-nd4="" href="https://www.coppel.com/aviso-de-privacidad" id="footerPrivacyPolicyLink">
+              Aviso de privacidad
+             </a>
+            </li>
+            <li>
+             <a class="taggedRefFooter" data-evento="clicMenuInferiorGeneral" data-nd1="Menú Inferior" data-nd2="Términos y condiciones" data-nd3="" data-nd4="" href="https://www.coppel.com/terminos-y-condiciones">
+              Términos y condiciones
+             </a>
+            </li>
+            <li>
+             <a class="taggedRefFooter" data-evento="clicMenuInferiorGeneral" data-nd1="Menú Inferior" data-nd2="Aviso de no discriminación" data-nd3="" data-nd4="" href="/aviso-no-discriminacion ">
+              Aviso de no discriminación
+             </a>
+            </li>
+            <li>
+             <a class="taggedRefFooter" data-evento="clicMenuInferiorGeneral" data-nd1="Menú Inferior" data-nd2="Seguridad en Coppel.com" data-nd3="" data-nd4="" href="https://www.coppel.com/compra-segura">
+              Seguridad en Coppel.com
+             </a>
+            </li>
+            <li>
+             <a class="taggedRefFooter" data-evento="clicMenuInferiorGeneral" data-nd1="Menú Inferior" data-nd2="Mapa del sitio" data-nd3="" data-nd4="" href="https://www.coppel.com/mapa-del-sitio">
+              Mapa del sitio
+             </a>
+            </li>
+            <li>
+             <a class="bandera-argentina" data-evento="clicMenuInferiorGeneral" data-nd1="Menú Inferior" data-nd2="Coppel Argentina" data-nd3="" data-nd4="" href="https://www.coppel.com.ar/?utm_source=coppel.com&amp;utm_medium=referral">
+              <svg data-name="Capa 1" id="Capa_1" viewbox="0 0 21 15" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+               <defs>
+                <style>
+                 .cls-3 {
+                    fill: #fff;
+                  }
+
+                  .cls-4 {
+                    fill: #6ca8da;
+                  }
+                </style>
+               </defs>
+               <title>
+                Bandera de Argentina
+               </title>
+               <rect class="cls-3" height="5" width="21" y="5">
+               </rect>
+               <rect class="cls-4" height="5" width="21">
+               </rect>
+               <rect class="cls-4" height="5" width="21" y="10">
+               </rect>
+               <image height="17" transform="translate(8.41 5.41) scale(0.24)" width="17" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAACXBIWXMAAC4jAAAuIwF4pT92AAAB1ElEQVQ4T22TwWoUQRCGv6ru2X0AUQTxIGgu4vgAy158nxw8LJPsJaCQrHhYguSJgmd3hYBzkBy8+A7d0+Vhunc7YwqankN/f/1/dY+YGdO6EHkyBx1AZqCd2d9PIi/mIAnk3OxPfV6mIpciTwPoLIs0oCnDM5DUZqG93f8n8lnk2Qw0ZKjANWggAE3eV3v7DeABvog8F1BAHcgcNLUIIGEUFDIIkHhYmncv4BUcLT60OCWviBsiOl0Wkc1beQMgl/DSg8YW9TmCxdF+U3WvK4BlByYe87R4QBUkRLTJQ3TAars8iGw+3iIZbqZCm5bXQwVb3qfdNUMCpmABzHmSgnmNOECGDDdxdJFACggQ/FEoZCEFi5B0tV3qAOriuIbxfWj3bSGrm8XB1fp6eXBUZhHAzvd277+e3qqrnJTOm9PvBohUbuQYwwZIDtLVe3klVye8e+wmimUBG3J2B2mA5DwpQrLxArS8TilPm0nVAw05xgOBiNN1bz9ruP4uUcocnB+d+AJH3OrOegXoetsZx3+jdhB8jsQYqQEZIiqMAvnsWGe9/Sidw8RBmQNAiDgB193Zr6rhsbredl1vOwU7u1nY4McbWF9/SAkkRJwD7bYLV3P/APUl7Fu5/XbXAAAAAElFTkSuQmCC"/>
+              </svg>
+              Coppel Argentina
+             </a>
+            </li>
+            <!--<li>
+          <a
+            data-nd1="Menú Inferior"
+            data-nd2="Declaración de accesibilidad"
+            data-nd3=""
+            data-nd4=""
+            data-evento="clicMenuInferiorGeneral"
+            target="_blank"
+            href="https://www.hearcolors.com.mx/SelloAccesibilidad.php?num_clte=FA30D267"
+            class="taggedRefFooter"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230.11 230.11">
+              <defs>
+                <style>
+                  .cls-1 {
+                    fill: #f4e555;
+                  }
+
+                  .cls-2 {
+                    fill: #fff;
+                  }
+                </style>
+              </defs>
+              <g id="Capa_2" data-name="Capa 2">
+                <g id="Capa_1-2" data-name="Capa 1">
+                  <circle
+                    class="cls-1"
+                    cx="115.05"
+                    cy="115.05"
+                    r="115.05"
+                  ></circle>
+                  <circle class="cls-2" cx="206.86" cy="118.11" r="3.66"></circle>
+                  <circle
+                    class="cls-2"
+                    cx="115.05"
+                    cy="115.05"
+                    r="68.51"
+                  ></circle>
+                  <path
+                    class="cls-2"
+                    d="M115.05,223.38A108.33,108.33,0,1,1,223.38,115.05,108.45,108.45,0,0,1,115.05,223.38Zm0-215.65A107.33,107.33,0,1,0,222.38,115.05,107.44,107.44,0,0,0,115.05,7.73Z"
+                  ></path>
+                  <path
+                    class="cls-1"
+                    d="M86.8,78.52s28.86,28.67,57.71,0C116,53.21,86.8,78.52,86.8,78.52Zm28.86,11.24a10.5,10.5,0,1,1,10.49-10.5A10.5,10.5,0,0,1,115.66,89.76Z"   
+                  ></path>
+                  <path
+                    class="cls-1"
+                    d="M133,114.45a13.84,13.84,0,0,1,7,5.09,13.41,13.41,0,0,1,2.47,8.71,17.1,17.1,0,0,1-2.89,8.41,15.11,15.11,0,0,1-6.58,5.58,26.91,26.91,0,0,0,2.57-3.27,22.65,22.65,0,0,0,2-3.48,21.22,21.22,0,0,0,1.93-7.45,13.88,13.88,0,0,0-1.48-7.26A22,22,0,0,0,133,114.45Z"
+                  ></path>
+                  <path
+                    class="cls-1"
+                    d="M139.44,107.9a20.23,20.23,0,0,1,9.8,7.8,20.65,20.65,0,0,1,3.46,12.53,25,25,0,0,1-3.9,12.27,23.83,23.83,0,0,1-4.13,4.86,19.16,19.16,0,0,1-5.23,3.43,36.11,36.11,0,0,0,3.76-4.73A31,31,0,0,0,146,139,30.15,30.15,0,0,0,148.71,128a23.6,23.6,0,0,0-1.11-8.18c-.35-.86-.63-1.76-1.07-2.6A30.94,30.94,0,0,0,139.44,107.9Z"
+                  ></path>
+                  <path
+                    class="cls-1"
+                    d="M144.51,102.18a26.71,26.71,0,0,1,17.36,26l-.19,2.11a14.94,14.94,0,0,1-.27,2.09,31,31,0,0,1-4.64,11.63,30,30,0,0,1-5.43,6.17,25.17,25.17,0,0,1-6.83,4.29,45.82,45.82,0,0,0,8.85-12.42,15,15,0,0,0,.75-1.69c.22-.57.48-1.13.69-1.7.35-1.17.8-2.3,1-3.5a36.91,36.91,0,0,0,1-7.17,29.66,29.66,0,0,0-.63-7.1,30,30,0,0,0-.95-3.46c-.47-1.11-.86-2.26-1.44-3.34A40.49,40.49,0,0,0,144.51,102.18Z"
+                  ></path>
+                  <path
+                    class="cls-1"
+                    d="M84.5,128.26s1.42-.89,2.3-9,2.84-6.9,4.08-6.55,1.59.71,0,15.58c-.18,5.84,1.59,10.44,3.54,10.44s6.54-7.08,9.73-6.9,4.07.35,3.89,1.59-4.07.71-8.31,8.5a34.15,34.15,0,0,1-10.45,11.68s-6.19,2.12-11.68,0c-2.12-1.06-5.84-9.74-6.37-14.16s-2.54-6.55-4-9.74-1.89-5.84,0-6.19,2.42,2.65,3.84,6.19,3.36,2.66,3.36,2.66.18-7.61-1.41-12.57,0-5.49,1.24-5.13,1.94,1.41,3.54,11.68c.53,3.72,1.77,4.42,1.06-4.78s0-10.44,1.41-10.09,2.13-.88,2.48,11.68A14.16,14.16,0,0,0,84.5,128.26Z"
+                  ></path>
+                  <circle class="cls-2" cx="21.01" cy="118.11" r="3.66"></circle>
+                  <path
+                    class="cls-2"
+                    d="M56.79,37.76c2.48,2.2,3.7,3.33,6.07,5.62.28.29.55.58.81.9s.5.63.74.95A13.72,13.72,0,0,1,64,43.72c-.13-.51-.24-1-.35-1.53-.56-2.95-.82-4.44-1.27-7.43l2.35-1.15c2.31,2.4,3.44,3.62,5.63,6.1a11,11,0,0,1,.71.94l.64,1c-.14-.51-.26-1-.36-1.54s-.17-1-.23-1.54c-.33-3-.47-4.49-.69-7.51.92-.38,1.38-.56,2.3-.92.29,5.75.54,8.6,1.24,14.25-.9.39-1.35.6-2.24,1-2.12-2.44-3.2-3.63-5.43-6-.24-.27-.47-.54-.69-.82s-.43-.57-.62-.86c.15.51.29,1,.41,1.52s.22,1,.31,1.55c.46,2.8.72,4.18,1.28,6.94-.9.48-1.35.72-2.25,1.22-4.07-4-6.2-5.9-10.61-9.6C55.16,38.71,55.7,38.39,56.79,37.76Z"
+                  ></path>
+                  <path
+                    class="cls-2"
+                    d="M73.49,29.84a98.43,98.43,0,0,1,9.71-3.2l.5,1.77c-2.59.73-3.88,1.13-6.43,2l1.26,3.64c1.89-.66,2.84-1,4.75-1.53.21.71.32,1.06.52,1.77-1.87.56-2.81.86-4.66,1.5.55,1.6.83,2.4,1.39,4C82.85,39,84,38.64,86.39,38l.5,1.77c-3.35,1-5,1.49-8.3,2.72-1.75-4.67-2.63-7-4.39-11.68Z"
+                  ></path>
+                  <path
+                    class="cls-2"
+                    d="M96.41,27a2.6,2.6,0,0,1-.18,1.49,3.41,3.41,0,0,1-1,1.23,4.41,4.41,0,0,1-1.44.8,5,5,0,0,1,2,.29,3.94,3.94,0,0,1,1.58,1,3,3,0,0,1,.78,1.65A3.36,3.36,0,0,1,98,35.25a3.49,3.49,0,0,1-1,1.35,5.53,5.53,0,0,1-1.52.93,10.21,10.21,0,0,1-1.78.56c-1.95.4-2.92.63-4.86,1.13C87.59,34.39,87,32,85.71,27.14c0,0,0-.1-.15-.25l-.27-.49a1.71,1.71,0,0,0-.17-.28c2.23-.59,3.35-.85,5.6-1.33a11.8,11.8,0,0,1,1.87-.23,5.89,5.89,0,0,1,1.76.17,2.92,2.92,0,0,1,1.36.74A2.64,2.64,0,0,1,96.41,27Zm-3,.89A1.61,1.61,0,0,0,93,27a1.59,1.59,0,0,0-.87-.39,3.32,3.32,0,0,0-1.16.06l-2.13.47.79,3.39L91.71,30a2.3,2.3,0,0,0,1.36-.78A1.6,1.6,0,0,0,93.42,27.86Zm1.81,5.77a2,2,0,0,0-.72-1.25,2.62,2.62,0,0,0-1.34-.53,4.77,4.77,0,0,0-1.59.09c-.63.13-.94.2-1.57.35.41,1.8.62,2.7,1,4.49l2.11-.46a3,3,0,0,0,1.22-.52,2.07,2.07,0,0,0,.74-.92A2.25,2.25,0,0,0,95.23,33.63Z"
+                  ></path>
+                  <path
+                    class="cls-2"
+                    d="M110.39,22.39A134.22,134.22,0,0,1,115.9,36c-1.15,0-1.73,0-2.87,0-.58-1.55-.89-2.33-1.51-3.87-1.76.05-2.63.09-4.39.21-.47,1.6-.7,2.4-1.13,4-.9.07-1.35.12-2.25.21a136.22,136.22,0,0,1,4.24-14ZM109,25.69c-.55,1.89-.81,2.84-1.31,4.74,1.24-.08,1.86-.11,3.09-.16C110.11,28.44,109.75,27.52,109,25.69Z"    
+                  ></path>
+                  <path
+                    class="cls-2"
+                    d="M122.68,36.49a8.4,8.4,0,0,1-2.92-.72,6.11,6.11,0,0,1-2.08-1.59,6.7,6.7,0,0,1-1.27-2.3,8.93,8.93,0,0,1-.4-2.83,7.07,7.07,0,0,1,.55-2.75,6.06,6.06,0,0,1,1.54-2.18,6.53,6.53,0,0,1,2.47-1.37,8.35,8.35,0,0,1,3.26-.32,11.78,11.78,0,0,1,1.75.29,11.51,11.51,0,0,1,1.85.63,4.66,4.66,0,0,1,1.43.93c-.71.6-1.06.9-1.75,1.51a3.73,3.73,0,0,0-1.48-1.07,6,6,0,0,0-1.84-.48,4.54,4.54,0,0,0-2.15.28,3.7,3.7,0,0,0-1.44,1.1,5.13,5.13,0,0,0-.81,1.62,7.44,7.44,0,0,0-.29,1.84,7.19,7.19,0,0,0,.39,2.89,4,4,0,0,0,3.59,2.72,8.2,8.2,0,0,0,1.77,0,10.32,10.32,0,0,0,2-.5c.26.58.38.88.63,1.46a11.79,11.79,0,0,1-1.56.6,8.9,8.9,0,0,1-1.54.29A10,10,0,0,1,122.68,36.49Z"
+                  ></path>
+                  <path
+                    class="cls-2"
+                    d="M134.66,38.17a8.31,8.31,0,0,1-2.83-1.07A6,6,0,0,1,130,35.28a6.7,6.7,0,0,1-1-2.43,9.13,9.13,0,0,1-.07-2.87,7.44,7.44,0,0,1,.87-2.66,6.2,6.2,0,0,1,1.8-2,6.68,6.68,0,0,1,2.62-1.07,8.69,8.69,0,0,1,3.28.07,12.37,12.37,0,0,1,1.72.51,11.93,11.93,0,0,1,1.77.83,4.86,4.86,0,0,1,1.31,1.1c-.77.51-1.16.77-1.92,1.3A3.82,3.82,0,0,0,139,26.83a5.79,5.79,0,0,0-1.78-.69,4.51,4.51,0,0,0-2.17,0,3.6,3.6,0,0,0-1.57.92,4.94,4.94,0,0,0-1,1.51,7.36,7.36,0,0,0-.52,1.79,7.25,7.25,0,0,0,0,2.92,4.24,4.24,0,0,0,1.14,2.07,4.18,4.18,0,0,0,2.12,1.06,8.89,8.89,0,0,0,1.77.16,10.87,10.87,0,0,0,2.08-.25c.19.61.28.91.46,1.53a14.81,14.81,0,0,1-1.63.4,8.24,8.24,0,0,1-1.57.11A11.32,11.32,0,0,1,134.66,38.17Z"
+                  ></path>
+                  <path
+                    class="cls-2"
+                    d="M144,26.12a99.79,99.79,0,0,1,9.75,3l-.62,1.74c-2.54-.92-3.83-1.34-6.41-2.1-.43,1.48-.65,2.22-1.09,3.7,1.92.56,2.87.87,4.75,1.52l-.6,1.74c-1.85-.64-2.79-.94-4.67-1.49-.47,1.63-.71,2.44-1.19,4.07,2.35.69,3.52,1.07,5.84,1.91L149.12,42c-3.3-1.18-5-1.7-8.32-2.6,1.28-4.82,1.92-7.24,3.21-12.06C144,26.83,144,26.6,144,26.12Z"
+                  ></path>
+                  <path
+                    class="cls-2"
+                    d="M160.37,31.53a9.92,9.92,0,0,1,2.13,1.27,7.82,7.82,0,0,1,1.6,1.66c-.83.31-1.24.47-2.06.8A4.28,4.28,0,0,0,161,34a5.47,5.47,0,0,0-1.38-.87,3.08,3.08,0,0,0-1.59-.26,1.25,1.25,0,0,0-1.1.83,1.51,1.51,0,0,0-.06,1,3,3,0,0,0,.52,1c.25.31.53.64.85,1l1.15,1.21a7.91,7.91,0,0,1,1,1.35,3.84,3.84,0,0,1,.5,1.52,3.23,3.23,0,0,1-.36,1.71,3.72,3.72,0,0,1-1.66,1.77,4.67,4.67,0,0,1-2.32.5,6.89,6.89,0,0,1-2.48-.55A13.64,13.64,0,0,1,152,43a8.76,8.76,0,0,1-1.8-1.58l1.61-1.6a6.34,6.34,0,0,0,1.17,1.5,5.11,5.11,0,0,0,1.6,1.07,3.6,3.6,0,0,0,1.2.27,2.31,2.31,0,0,0,1.11-.24,1.69,1.69,0,0,0,.78-.84,1.52,1.52,0,0,0,.07-1.18,3.62,3.62,0,0,0-.68-1.14c-.32-.38-.67-.77-1.07-1.16s-.7-.71-1-1.08a6.15,6.15,0,0,1-.86-1.15,3.26,3.26,0,0,1-.46-1.3,3,3,0,0,1,.2-1.5,3.09,3.09,0,0,1,1.52-1.8,4.62,4.62,0,0,1,2.38-.42A8.58,8.58,0,0,1,160.37,31.53Z"
+                  ></path>
+                  <path
+                    class="cls-2"
+                    d="M170.82,36.67a10,10,0,0,1,2,1.49A7.68,7.68,0,0,1,174.29,40c-.86.22-1.29.33-2.15.57a4.07,4.07,0,0,0-.91-1.32,5.83,5.83,0,0,0-1.3-1,3.22,3.22,0,0,0-1.57-.42,1.25,1.25,0,0,0-1.18.71,1.45,1.45,0,0,0-.16,1,3,3,0,0,0,.43,1c.22.34.47.7.76,1.07s.69.87,1,1.34a7,7,0,0,1,.88,1.45,3.75,3.75,0,0,1,.36,1.57,3.15,3.15,0,0,1-.52,1.66,3.75,3.75,0,0,1-1.84,1.59,4.88,4.88,0,0,1-2.38.26,7.19,7.19,0,0,1-2.44-.82,13.08,13.08,0,0,1-2-1.36,8.87,8.87,0,0,1-1.65-1.76l1.76-1.43a6.71,6.71,0,0,0,1,1.62,5.37,5.37,0,0,0,1.51,1.23,3.22,3.22,0,0,0,1.18.39,2.3,2.3,0,0,0,1.14-.11,1.58,1.58,0,0,0,.86-.76,1.54,1.54,0,0,0,.19-1.17,4,4,0,0,0-.57-1.21c-.29-.41-.61-.84-1-1.27s-.63-.78-.93-1.18a6.71,6.71,0,0,1-.76-1.23,3.48,3.48,0,0,1-.33-1.35,3.39,3.39,0,0,1,2-3.11,4.58,4.58,0,0,1,2.43-.17A8.46,8.46,0,0,1,170.82,36.67Z"
+                  ></path>
+                </g>
+              </g>
+            </svg>
+            Declaración de accesibilidad
+          </a>
+        </li>-->
+           </ul>
+          </div>
+          <div class="copy text-center dvFooterInfo" style="margin-top: 0">
+           <span class="texto-checkout">
+            *Te llamaremos si es necesario para darle seguimiento a tu compra.
+            <br/>
+           </span>
+           <span class="texto-pesos">
+            Todos los precios en Coppel.com son en pesos mexicanos e incluyen
+        impuestos.
+           </span>
+           Los precios y promociones de nuestro sitio web son exclusivos de Coppel.com.
+      Los abonos quincenales, el plazo o el pago inicial pueden variar según el
+      margen de crédito y el historial de pago de cada cliente. Los quincenales
+      contemplan: 24, 36, 48, 60 o 72 quincenas para muebles y 24 quincenas para
+      ropa. Los productos de Marketplace que lleves con tu crédito Coppel, cuentan
+      con un plazo de 24 quincenas y son financiados con Coppel Pay.
+           <div class="copyRight">
+            <figure>
+             <figcaption>
+              2024 © Coppel todos los derechos reservados
+             </figcaption>
+            </figure>
+           </div>
+          </div>
+         </div>
+         <style>
+          footer .container {
+      padding: 0 15px
+    }
+
+    .listado-terminos-y-condiciones {
+      padding: 25px 0px 0;
+      list-style: none;
+      text-align: center
+    }
+
+    .listado-terminos-y-condiciones li {
+      text-align: center;
+      padding-bottom: 20px
+    }
+
+    .listado-terminos-y-condiciones li a {
+      color: #fff;
+      text-decoration: underline;
+      font-size: 14px
+    }
+
+
+    .listado-terminos-y-condiciones li svg {
+      width: 21px;
+      margin-right: 7px;
+      vertical-align: middle;
+      display: inline-flex
+    }
+
+    .dvFooterInfo .texto-checkout {
+      display: none
+    }
+
+    .dvFooterInfo {
+      padding: 30px 5px 40px;
+      font-size: 13px;
+    }
+
+    @media only screen and (min-width: 768px) {
+      footer .container {
+        width: 750px;
+        margin: 0 auto
+      }
+
+      footer .listado-terminos-y-condiciones li {
+        display: inline-block
+      }
+
+      footer .listado-terminos-y-condiciones li a {
+        margin: 0 20px
+      }
+
+      footer .dvFooterInfo {
+        padding: 36px 10px 40px
+      }
+
+      footer .copyRight {
+        margin-top: 15px;
+      }
+    }
+
+    @media only screen and (min-width: 992px) {
+      footer .container {
+        width: 970px;
+      }
+    }
+
+    @media only screen and (min-width: 1200px) {
+      footer .container {
+        width: 1170px;
+      }
+
+    }
+         </style>
+         <!--pop up estilo-->
+         <style>
+          .relampago,.relampago .title button{width:100%}.relampago .producto-rel button.btn-img,.relampago .title button{border:none;background-color:transparent}.relampago .Mostrar320{display:none}.relampago .Ocultar320{display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}@media only screen and (min-width:400px){.relampago .Mostrar320{display:initial;height:40px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.relampago .Ocultar320{display:none}}.relampago .producto-rel .img{display:inline-block;width:40%;vertical-align:middle;padding-bottom:5px;padding-top:5px}.relampago .producto-rel .desc{display:inline-block;width:55%;vertical-align:middle;font-size:13px}.item.producto-rel.relampago-rel{width:220px;margin:0 auto}.relampago .producto-rel .desc .precios,.relampago .producto-rel .desc .rel-precio{margin-top:5px}.relampago{background-color:#fff;bottom:0;left:0;position:fixed;z-index:9;box-shadow:2px 0 5px #2b242496;transition:.5s}.relampago .title{padding:5px;font-size:14px;font-weight:700;color:red;text-align:center;background-color:#f9e717}.relampago .owl-carousel.owl-drag .owl-item{margin-right:7px!important}.relampago .title button img{margin-right:10px;max-width:32px;vertical-align:bottom;width:auto;margin-bottom:0}.relampago .title button i{margin-left:9px;margin-top:3px}.relampago .title button i.fa-minus:before{content:"\f068"}.relampago.minimizado .title button i.fa-minus:before{content:"\f067"!important}.relampago .producto-rel .cta{margin-bottom:10px;margin-left:10px;text-align:left}.relampago .producto-rel .cta .btn{width:90px;font-size:13px!important;padding:5px 0}.relampago .producto-rel .desc .rel-precio .antes{color:#8e8f93;text-decoration:line-through}.relampago .producto-rel p span{color:#eb0042}.relampago .producto-rel .desc .rel-precio .ahora{color:#eb0042;font-weight:700;margin-left:5px;font-size:15px}.relampago.minimizado{height:35px}.relampago .title button i.pull-left{color:#000}.relampago .owl-stage{padding-left:0!important}.relampago .owl-theme .owl-nav .owl-next,.relampago .owl-theme .owl-nav .owl-prev{position:absolute;right:0;top:50%;transform:translateY(-50%);width:48px;height:48px;background:#fff;border-radius:50%;box-shadow:0 0 10px 1.5px #d6d6d6;display:flex;align-items:center;justify-content:center}.relampago .owl-theme .owl-nav .owl-prev{left:0}.relampago .owl-theme .owl-nav .owl-next:hover,.relampago .owl-theme .owl-nav .owl-prev:hover{box-shadow:0 0 15px 2px #d6d6d6;background:#fff}.relampago .owl-theme .owl-nav .owl-next span,.relampago .owl-theme .owl-nav .owl-prev span{font-size:29px;color:#016db6;padding-bottom:3px}@media only screen and (min-width:375px){.relampago .producto-rel .cta .btn{width:120px}}@media only screen and (min-width:425px){.relampago .producto-rel .desc{font-size:15px}.relampago .producto-rel .cta .btn{width:140px}}@media only screen and (min-width:768px){.relampago{width:300px;left:15px}.relampago .title button i.pull-left{float:right!important;margin-right:15px}.relampago .title button{text-align:center;padding-left:35px}.relampago .producto-rel .img{width:100%}.relampago .producto-rel .img img{width:200px}.relampago .producto-rel .desc{padding:10px;width:100%;text-align:center}.relampago .producto-rel .desc.television{margin-top:-20px;padding:20px 10px 5px}.relampago .producto-rel .cta{text-align:center}.relampago .producto-rel .cta .btn{width:170px}.item.producto-rel{padding:0 25px}.relampago .owl-theme .owl-nav .owl-next{margin-right:-10px!important}.relampago .owl-theme .owl-nav .owl-prev{margin-left:-10px!important}.relampago .owl-theme .owl-nav{top:45%}}@media only screen and (min-width:992px){.relampago .producto-rel .desc .rel-precio .ahora{font-size:20px}.relampago{width:270px}.relampago .owl-theme .owl-nav .owl-next,.relampago .owl-theme .owl-nav .owl-prev{width:45px;height:45px}.relampago .owl-theme .owl-nav .owl-next span,.relampago .owl-theme .owl-nav .owl-prev span{top:-8px}.relampago .producto-rel .desc{font-size:15px;padding:20px 0}}@media only screen and (max-width:767px){.relampago .owl-carousel .owl-stage{right:0!important}.relampago .producto-rel .desc{font-size:15px;margin-bottom:10px;margin-top:10px}.relampago .producto-rel .desc .rel-precio{margin-top:20px}}@media only screen and (max-width:432px){.relampago .producto-rel .desc{font-size:15px;margin-bottom:10px;margin-top:10px}.relampago .producto-rel .desc .rel-precio{margin-top:20px}.item .item.producto-rel.relampago-rel{width:250px}.relampago .producto-rel .cta{margin-bottom:10px;margin-left:10px;text-align:right}}@media only screen and (max-width:425px){.relampago .producto-rel .cta{margin-bottom:19px;margin-left:0;text-align:right;position:absolute;margin-right:32px;bottom:0;right:0}.relampago .producto-rel .img{display:inline-block;width:55%;vertical-align:middle;padding-bottom:5px;padding-top:5px}.relampago .producto-rel .desc{display:inline-block;width:45%;vertical-align:middle;font-size:13px;margin-bottom:55px}.relampago .producto-rel .desc .rel-precio{margin-top:11px}}@media only screen and (max-width:375px){.relampago .producto-rel .cta{margin-bottom:19px;margin-left:0;text-align:right;position:absolute;margin-right:21px;bottom:0;right:0}.item .item.producto-rel.relampago-rel{width:209px}}@media only screen and (max-width:365px){.relampago .producto-rel .cta{margin-bottom:19px;margin-left:0;text-align:right;position:absolute;margin-right:38px;bottom:0;right:0}}@media only screen and (max-width:320px){.relampago .producto-rel .cta{margin-bottom:19px;margin-left:0;text-align:right;position:absolute;margin-right:25px;bottom:0;right:0}.relampago .producto-rel .desc{display:inline-block;width:45%;vertical-align:middle;font-size:13px;margin-bottom:55px;margin-top:10px}}
+         </style>
+         <!-- banner pop up -->
+         <script>
+          function setRelampagoBanner(e){document.querySelector(".popupSAS")&&document.querySelector(".popupSAS").parentNode.classList.add("banner"),localStorage.setItem("relampago_sn_maximizado",e),1==e?$(".relampago-popup.banner").removeClass("minimizado"):$(".relampago-popup.banner").addClass("minimizado")}function pushClickEventBanner(e){var o=e.getAttribute("id-banner"),r=e.getAttribute("promocreativo"),t=e.querySelector("img").getAttribute("alt"),a=e.getAttribute("position");window.dataLayer=window.dataLayer||[],dataLayer.push({ecommerce:{promoClick:{promotions:[{id:"Flash promotion Pop up|"+o,name:t,creative:r,position:a},]}},nd1:"EEC - Promos - Seleccion - Promo",nd2:"Flash promotion Pop up",nd3:o,nd4:"1",promoTexto:t,promoCreativo:r,event:"clicPopupIC"})}$(document).ready(function(){let e=window.setInterval(function(){if(null!=document.querySelector(".popupSAS")){var o=document.querySelector(".clickBannerPopUp").getAttribute("id-banner"),r=document.querySelector(".clickBannerPopUp").getAttribute("promocreativo"),t=document.querySelector(".clickBannerPopUp").querySelector("img").getAttribute("alt"),a=document.querySelector(".clickBannerPopUp").getAttribute("position");1==(relampago_status=localStorage.getItem("relampago_sn_maximizado"))?setRelampagoBanner(0):(setRelampagoBanner(1),window.dataLayer=window.dataLayer||[],dataLayer.push({ecommerce:{promoView:{promotions:[{id:"Flash promotion Pop up|"+o,name:t,creative:r,position:a},]}},nd1:"EEC - Promos - Impresion",nd2:t,nd3:o,nd4:"1",event:"impresionesPopupIC"})),window.dataLayer=window.dataLayer||[],window.dataLayer.push({nd1:"Flash promotion",nd2:1==relampago_status?"Cerrar":"Abrir",nd3:"",nd4:"",event:"clicGeneral"}),clearInterval(e)}},1e3)});
+         </script>
+         <!-- Banner 404 y carrito abandonado con botón -->
+         <!--<script type="text/javascript">
+    // TAGGEO
+    let NOTFOUND = document;
+
+    function clickBannerNOTFOUND() {
+        if(NOTFOUND.querySelector(".error404 .text-center")) {
+            NOTFOUND.querySelector(".error404 .text-center a").addEventListener("click", () => {
+                dataLayer.push({
+                    ecommerce: {
+                        promoClick: {
+                            promotions: [
+                                {
+                                    id: "Página no encontrada Banner Cyber Coppel|MO_PRO_BLO-1|TRK-1|pro_Banner DOSP-1",
+                                    name: "¡Estrena más con Cyber Coppel! Aprovecha las ofertas especiales del 24 de noviembre al 1 de diciembre de 2023. Pulsa aquí para encontrar productos.",
+                                    creative: "CyberCoppel_Carrito_2023_Desktop_03.jpg",
+                                    position: 1
+                                }
+                            ]
+                        }
+                    },
+                    nd1: 'EEC - Promos - Seleccion - Promo',
+                    nd2: 'Página no encontrada Banner Cyber Coppel',
+                    nd3: 'MO_PRO_BLO-1|TRK-1|pro_Banner DOSP-1',
+                    nd4: '1',
+                    promoTexto: '¡Estrena más con Cyber Coppel! Aprovecha las ofertas especiales del 24 de noviembre al 1 de diciembre de 2023. Pulsa aquí para encontrar productos.',
+                    promoCreativo: 'CyberCoppel_Carrito_2023_Desktop_03.jpg',
+                    event: 'promosSeleccionPromo'
+                });
+            });
+        } else if(NOTFOUND.querySelector("#WC_ShopCartDisplay_div_5 .col-md-9")) {
+            NOTFOUND.querySelector("#WC_ShopCartDisplay_div_5 .col-md-9 .bannerCarritoAbandonado").addEventListener("click", () => {
+                dataLayer.push({
+                    ecommerce: {
+                        promoClick: {
+                            promotions: [
+                                {
+                                    id: "Carrito abandonado Banner Cyber Coppel|MO_PRO_BLO-1|TRK-1|pro_Banner DOSP-1",
+                                    name: "¡Estrena más con Cyber Coppel! Aprovecha las ofertas especiales del 24 de noviembre al 1 de diciembre de 2023. Pulsa aquí para encontrar productos.",
+                                    creative: "CyberCoppel_Carrito_2023_Desktop_03.jpg",
+                                    position: 1
+                                }
+                            ]
+                        }
+                    },
+                    nd1: 'EEC - Promos - Seleccion - Promo',
+                    nd2: 'Carrito abandonado Banner Cyber Coppel',
+                    nd3: 'MO_PRO_BLO-1|TRK-1|pro_Banner DOSP-1',
+                    nd4: '1',
+                    promoTexto: '¡Estrena más con Cyber Coppel! Aprovecha las ofertas especiales del 24 de noviembre al 1 de diciembre de 2023. Pulsa aquí para encontrar productos.',
+                    promoCreativo: 'CyberCoppel_Carrito_2023_Desktop_03.jpg',
+                    event: 'promosSeleccionPromo'
+                });
+            });
+        }
+    }
+
+    window.onload =  function() {
+    setTimeout(function() {
+        if (document.querySelector(".error404 .error404-texto .text-center")) {
+                var container = document.querySelector(".error404 .error404-texto .text-center")
+                // var title = document.createElement("h2");
+                var anchor = document.createElement("a");
+                var banner = document.createElement("picture");
+                // title.innerHTML = "Da el clic y disfruta";
+                anchor.setAttribute("href", "/cyber-coppel-com");
+                // title.setAttribute("style", "text-align: left;");
+                banner.innerHTML = "<source media='(min-width: 768px)' srcset='https://cdn2.coppel.com/images/emarketing/landings/2023/noviembre/404/CyberCoppel_Carrito_2023_Desktop_03.jpg'><img class='lazyImg' src='https://cdn2.coppel.com/images/emarketing/landings/2023/noviembre/404/CyberCoppel_Carrito_2023_Mobile_02.jpg' data-original='https://cdn2.coppel.com/images/emarketing/landings/2023/noviembre/404/CyberCoppel_Carrito_2023_Mobile_02.jpg' alt='¡Estrena más con Cyber Coppel! Aprovecha las ofertas especiales del 24 de noviembre al 1 de diciembre de 2023. Pulsa aquí para encontrar productos.'>";
+                anchor.appendChild(banner);
+                // container.appendChild(title);
+                container.appendChild(anchor);
+
+                dataLayer.push({
+                    ecommerce: {
+                        promoView: {
+                            promotions: [{
+                                id: "Página no encontrada Banner Cyber Coppel|MO_PRO_BLO-1|TRK-1|pro_Banner DOSP-1",
+                                name: "Las ofertas están aquí. Aprovecha los descuentos que llegaron a Coppel.com y estrena ropa, muebles, electrodomésticos y mucho más. Pulsa aquí para elegir ya.",
+                                creative: "CyberCoppel_Carrito_2023_Desktop_03.jpg",
+                                position: 1
+                            }]
+                        }
+                    },
+                    nd1: 'EEC - Promos - Impresion',
+                    nd2: 'Página no encontrada Banner Cyber Coppel',
+                    nd3: 'MO_PRO_BLO-1',
+                    nd4: '1',
+                    event: 'promosImpresionPack'
+                });
+
+                clickBannerNOTFOUND();
+            }
+        }, 1000);
+        setTimeout(function() {
+            if (document.querySelector("#WC_ShopCartDisplay_div_5 .col-md-9")) {
+                let containerBanner = document.querySelector("#WC_ShopCartDisplay_div_5 .col-md-9 h3"),
+                titleBanner = "",
+                urlBanner = "/cyber-coppel-com",
+                altBannerrr = "¡Estrena más con Cyber Coppel! Aprovecha las ofertas especiales del 24 de noviembre al 1 de diciembre de 2023. Pulsa aquí para encontrar productos.",
+                desktopImgBanner = "https://cdn2.coppel.com/images/emarketing/landings/2023/noviembre/404/CyberCoppel_Carrito_2023_Desktop_03.jpg",
+                mobileImgBanner = "https://cdn2.coppel.com/images/emarketing/landings/2023/noviembre/404/CyberCoppel_Carrito_2023_Mobile_02.jpg"
+                if(containerBanner) {
+                    containerBanner.insertAdjacentHTML("beforebegin", "<a href="+urlBanner+" class='bannerCarritoAbandonado'><picture><source media='(min-width: 768px)' srcset="+desktopImgBanner+"><img class='lazyImg' src="+mobileImgBanner+" data-original="+mobileImgBanner+" alt='"+altBannerrr+"'></picture></a>");     
+                }
+
+                dataLayer.push({
+                    ecommerce: {
+                        promoView: {
+                            promotions: [{
+                                id: "Carrito abandonado Banner Cyber Coppel|MO_PRO_BLO-1|TRK-1|pro_Banner DOSP-1",
+                                name: "¡Estrena más con Cyber Coppel! Aprovecha las ofertas especiales del 24 de noviembre al 1 de diciembre de 2023. Pulsa aquí para encontrar productos.",
+                                creative: "CyberCoppel_Carrito_2023_Desktop_03.jpg",
+                                position: 1
+                            }]
+                        }
+                    },
+                    nd1: 'EEC - Promos - Impresion',
+                    nd2: 'Carrito abandonado Banner Cyber Coppel',
+                    nd3: 'MO_PRO_BLO-1',
+                    nd4: '1',
+                    event: 'promosImpresionPack'
+                });
+
+                clickBannerNOTFOUND();
+            }
+        }, 1000);
+    }
+</script>-->
+         <!--  carrito abandonado sin boton
+    function bannerCarritoAbandonado() {
+      setTimeout(function(){
+        let containerBanner = document.querySelector("#WC_ShopCartDisplay_div_5 .col-md-9 h3"),
+            titleBanner = "",
+            urlBanner = "/",
+            altBannerrr = "¡Termina tu compra! Algunos productos de tu carrito están por agotarse. Pulsa aquí para ir a tu carrito. Abre en pestaña nueva.",    
+            desktopImgBanner = "https://cdn2.coppel.com/images/emarketing/landings/2023/noviembre/404/Carrito_BF23_Desktop.jpg",
+            mobileImgBanner = "https://cdn2.coppel.com/images/emarketing/landings/2023/noviembre/404/CarritoAbandonado_BF23_MobileTEXT_02.jpg"
+        if (containerBanner){
+            containerBanner.insertAdjacentHTML("beforebegin", "<h2 style='text-align: left;'>"+titleBanner+"</h2><a href="+urlBanner+"><picture><source media='(min-width: 768px)' srcset="+desktopImgBanner+"><img class='lazyImg' src="+mobileImgBanner+" data-original="+mobileImgBanner+" alt='"+altBannerrr+"'></picture><span class='btnCarrito' >ESTRENA YA</span></a>");
+        }
+      }, 1000);
+    };
+    if(document.querySelector(".remove_address_link")) {
+      document.querySelector(".remove_address_link").addEventListener("click", bannerCarritoAbandonado);
+    }
+
+
+      // bannerCarritoAbandonado();
+
+      setTimeout(function(){
+        if (document.querySelector(".error404 .error404-texto .text-center")){
+          var container = document.querySelector(".error404 .error404-texto .text-center")
+          var title = document.createElement("h2");
+          var anchor = document.createElement("a")
+          var banner = document.createElement("picture")
+          title.innerHTML = ""
+          anchor.setAttribute("href", "/buen-fin")
+          title.setAttribute("style", "text-align: left;")
+          banner.innerHTML = "<source media='(min-width: 768px)' srcset='https://cdn2.coppel.com/images/emarketing/landings/2023/noviembre/404/Error404_HF23_Desktop_durante.jpg'><img class='lazyImg' src='https://cdn2.coppel.com/images/emarketing/landings/2023/noviembre/404/Error404_HF23_Mobile_durante.jpg' data-original='https://cdn2.coppel.com/images/emarketing/landings/2023/noviembre/404/Error404_HF23_Mobile_durante.jpg' alt='El Buen Fin. Haz tus buenas compras en línea. Aprovecha los grandes descuentos de El Buen Fin en Coppel.com del 17 al 20 de noviembre de 2023 y ¡estrena! Pulsa aquí para ver ofertas.'>"
+          anchor.appendChild(banner)
+          container.appendChild(title)
+          container.appendChild(anchor)
+          let html ="<span class='btn404' >ELIGE YA</span>";
+          anchor.insertAdjacentHTML('beforeend',html);
+        }
+      }, 1000);
+</script>
+
+<style>
+  .btnCarrito{
+    position: absolute;
+    top: 33%;
+    left: 47%;
+    transform: translate(-50%, -50%);
+    background: #373d3f;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+  }
+
+  .btn404{
+    position: absolute;
+    top: 36%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    background: #373d3f;
+    color: #fff;
+    padding: 7px 38px;
+    border-radius: 5px;
+  }
+
+  @media (min-width: 320px) {
+    .btn404{
+      top: 35%;
+    }
+  }
+
+  @media (min-width: 360px) {
+    .btn404{
+      top: 36%;
+    }
+  }
+
+  @media (min-width: 375px) {
+    .btn404{
+      top: 36%;
+    }
+  }
+
+  @media (min-width: 400px) {
+    .btnCarrito{
+      top: 36%;
+    }
+
+    .btn404{
+      top: 38%;
+    }
+  }
+
+  @media (min-width: 425px) {
+    .btn404{
+      top: 37%;
+    }
+  }
+
+  @media (min-width: 490px) {
+    .btnCarrito{
+      top: 39%;
+    }
+  }
+
+  @media (min-width: 520px) {
+    .btnCarrito{
+      top: 40%;
+    }
+
+    .btn404{
+      top: 38%;
+    }
+  }
+
+  @media (min-width: 600px) {
+    .btn404{
+      top: 40%;
+    }
+  }
+
+  @media (min-width: 670px) {
+    .btnCarrito{
+      top: 44%;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .btnCarrito{
+      top: 27%;
+    }
+
+    .btn404{
+      top: 36%;
+    }
+  }
+
+  @media (min-width: 992px) {
+    .btn404{
+      top: 40%;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .btn404{
+      top: 39%;
+    }
+  }
+
+  @media (min-width: 1200px) {
+    .btnCarrito{
+      top: 31%;
+    }
+
+    .btn404{
+      top: 42%;
+    }
+  }
+
+  @media (min-width: 1280px) {
+    .btn404{
+      top: 43%;
+    }
+  }
+
+
+  @media (min-width: 1440px) {
+    .btnCarrito{
+      top: 32%;
+    }
+
+    .btn404{
+      top: 42%;
+    }
+  }
+
+  @media (min-width: 2560px) {
+    .btnCarrito{
+      top: 40%;
+    }
+  }
+</style> -->
+         <!-- <Inicia Modal CVV>
+      <style>
+        .modalcvv {
+            visibility: hidden;
+            opacity: 0;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            -webkit-transition: all .7s;
+            transition: all .7s;
+            z-index: 102;
+        }
+        /* .modalcvv:target,
+        .modalcvv:target .modalcvv-bg {
+            display: block;
+            z-index: 100;
+            opacity: 1;
+            visibility: visible;
+        } */
+        .modalcvv-bg,
+        .modalcvv-bg:active,
+        .modalcvv-bg:hover,
+        .modalcvv-bg:visited,
+        .modalcvv-bg:link {
+            text-decoration: none;
+            visibility: hidden;
+            opacity: 0;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.8);
+            -webkit-transition: all .7s;
+            transition: all .7s;
+            cursor: default;
+        }
+        .modalcvv-bg i.fa-close {
+            position: absolute;
+            right: 50%;
+            top: 50%;
+            transform: translate(130px, -125px);
+            color: #fff;
+            font-size: 24px;
+            cursor: pointer;
+        }
+        .modalcvv:target .modalcvv-bg {
+            z-index: 200;
+        }
+        .modalcvv-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            height: auto;
+            text-align: center;
+            z-index: 300;
+        }
+        .modalcvv-title {
+            text-transform: uppercase;
+            margin-top: 5vh;
+            margin-right: 5vh;
+            margin-left: 5vh;
+            margin-bottom: 1.2rem;
+        }
+        .modalcvv-text {
+            margin-bottom: 5vh;
+            margin-right: 5vh;
+            margin-left: 5vh;
+        }
+        .modalcvv-exit:link,
+        .modalcvv-exit:active,
+        .modalcvv-exit:visited,
+        .modalcvv-exit:hover {
+            position: absolute;
+            top: 5%;
+            right: 5%;
+            font-size: 1.7rem;
+            text-decoration: none;
+            color: #F92A2A;
+        }
+        #pagoCVV {
+            width: 270px;
+        }
+        #pagoCVV img {
+            width: 100%;
+        }
+        .open-cvv{
+            visibility: visible;
+            opacity: 1;
+        }
+        #modalcvv .modalcvv-bg.open-cvv{
+            visibility: visible;
+            opacity: 1;
+        }
+        @media (min-width: 360px) {
+            #pagoCVV {
+                width: 330px;
+            }
+            .modalcvv-bg i.fa-close {
+              right: 50%;
+              top: 50%;
+              transform: translate(155px, -150px);
+            }
+        }
+        @media (min-width: 768px) {
+            .modalcvv-bg i.fa-close {
+              right: 50%;
+              top: 50%;
+              transform: translate(315px, -225px);
+              font-size: 30px;
+            }
+            #pagoCVV {
+                width: 655px;
+            }
+        }
+        @media (min-width: 992px) {
+            #pagoCVV {
+                width: 760px;
+            }
+            .modalcvv-bg i.fa-close {
+              right: 50%;
+              top: 50%;
+              transform: translate(370px, -235px);
+            }
+        }
+    </style> -->
+         <!-- Modal CVV-->
+         <script>
+          var pathnameCVV = window.location.pathname;
+    if (pathnameCVV.includes("SingleShipmentOrderSummaryView") && localStorage.getItem("modalCVV") === "abierto") {
+        localStorage.setItem("modalCVV", "abierto");
+    } else if (!pathnameCVV.includes('OrderShippingBillingView') && localStorage.getItem("modalCVV") === "abierto") {
+        localStorage.removeItem("modalCVV");
+    }
+         </script>
+         <!--Termina Modal CVV-->
+         <!-- Fix para mover el boton de encuesta detrás del modal de voz -->
+         <style>
+          #nebula_div_btn {
+        z-index: 0;
+    }
+         </style>
+         <!-- Fix para mover todo detrás cuando se abre menú en mobile-->
+         <style>
+          #floating_button_yalochat.right {
+        z-index: 9;
+    }
+
+    #yalochat_button.right {
+        z-index: 9;
+    }
+
+    .divIconResponsive {
+        z-index: 1;
+    }
+
+    #headerRow1 #departmentsMenu_mob.active {
+        z-index: 12;
+    }
+         </style>
+         <!-- Fix para mover todo detrás en PLP al filtrar-->
+         <style>
+          #content .row.facetContainer .facetWidget.collapsible .content>div:nth-child(3) {
+        z-index: 99999991;
+    }
+         </style>
+         <!-- Ocultar modo oscuro y  ¿Olvidaste tu número de cliente? Encuéntralo aquí en forma de pago-->
+         <style>
+          #PaymentForm1 .coppel_number #encuentraColonia, .modo-oscuro, .modo-oscuro-mobile{
+        display: none;
+    }
+         </style>
+         <!-- AGREGAR AL CARRITO PLP -->
+         <style>
+          .catalogo-list.list .grid_mode .product_price .priceTable .pab-icono,
+.catalogo-list .grid_mode .product_price .priceTable .pab-icono{
+        display: none;
+    }
+    @media (min-width: 768px){
+        .catalogo-list.grid .grid_mode .div-comparar.compare_target,
+        .catalogo-list .grid_mode .div-comparar.compare_target{
+            display: none !important;
+        }
+
+         .catalogo-list.list .grid_mode .div-comparar.compare_target{
+            display: block !important;
+        }
+
+        .catalogo-list.grid .grid_mode .product_price .priceTable .pab-icono {
+            width: 100%;
+            margin-top: 10px;
+            background: transparent !important;
+            border: 2px solid #1a6bb1 !important;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 7px 6px;
+            border-radius: 8px;
+        }
+        .catalogo-list.grid .grid_mode .product_price .priceTable .pab-icono svg {
+            margin-right: 5px;
+        }
+        .catalogo-list.grid .grid_mode .product_price .priceTable .pab-icono span{
+            font-size: 12px;
+            color: #1a6db4;
+            font-weight: 700;
+            line-height: 1.2;
+        }
+    }
+
+    @media (min-width:1400px){
+        .catalogo-list.grid .grid_mode .product_price .priceTable .pab-icono span{
+            font-size: 12px;
+        }
+    }
+         </style>
+         <script>
+          if(document.querySelector('.productListingWidget.catalogo-list') != null){
+
+        if(!document.querySelector('.productListingWidget.catalogo-list').classList.contains('grid') && !document.querySelector('.productListingWidget.catalogo-list').classList.contains('list')){
+            document.querySelector('.productListingWidget.catalogo-list').classList.add('grid');
+        }
+
+        document.querySelectorAll('.grid_mode .product .div-comparar.compare_target').forEach(element => {
+            let parentProductInfo = element.closest('.product').querySelector('.product_info');
+            parentProductInfo.removeAttribute("onclick");
+            let clonedBtnPAB = element.querySelector('div a').cloneNode(true);
+
+            clonedBtnPAB.classList.add('pab-icono');
+            parentProductInfo.querySelector('.biweekly').insertAdjacentElement('afterend', clonedBtnPAB);
+
+            parentProductInfo.querySelector(' a.pab-icono').innerHTML = `<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M5.877 9.79297H14.0199C14.3312 9.79297 14.601 9.57763 14.67 9.27418L15.9831 3.49781C16.0779 3.08075 15.7609 2.68359 15.3331 2.68359H4.42245L4.16783 1.43918C4.10436 1.129 3.83139 0.90625 3.5147 0.90625H0.666667C0.298472 0.90625 0 1.20465 0 1.57275V2.01709C0 2.38519 0.298472 2.68359 0.666667 2.68359H2.60786L4.55917 12.2211C4.06986 12.5025 3.74781 13.0418 3.77997 13.6537C3.82164 14.4461 4.46639 15.0865 5.25917 15.1233C6.152 15.1647 6.88889 14.4533 6.88889 13.5698C6.88889 13.1345 6.70981 12.7413 6.42156 12.459H12.2451C11.9474 12.7505 11.7661 13.1605 11.7784 13.6128C11.8007 14.4408 12.482 15.1129 13.3104 15.1248C14.18 15.1373 14.8889 14.4363 14.8889 13.5698C14.8889 12.9541 14.5309 12.422 14.0117 12.17L14.1649 11.4959C14.2598 11.0788 13.9427 10.6816 13.5149 10.6816H6.05881L5.877 9.79297ZM10 5.57178H11.3333C11.5788 5.57178 11.7778 5.7707 11.7778 6.01611V6.46045C11.7778 6.70586 11.5788 6.90478 11.3333 6.90478H10V8.01562C10 8.26104 9.80103 8.45996 9.55556 8.45996H9.11111C8.86564 8.45996 8.66667 8.26104 8.66667 8.01562V6.90478H7.33334C7.08786 6.90478 6.88889 6.70586 6.88889 6.46045V6.01611C6.88889 5.7707 7.08786 5.57178 7.33334 5.57178H8.66667V4.46094C8.66667 4.21552 8.86564 4.0166 9.11111 4.0166H9.55556C9.80103 4.0166 10 4.21552 10 4.46094V5.57178Z" fill="#006FB9"/>
+                </svg>  <span>AGREGAR AL CARRITO</span> `;
+
+        });
+    }
+         </script>
+        </div>
+        <!-- END Content_UI.jspf -->
+       </div>
+      </div>
+      <!-- END ContentRecommendation_UI.jspf -->
+      <!-- END ContentRecommendation.jsp -->
+      <!-- END EMarketingSpot.jsp -->
+     </div>
+    </div>
+    <!-- END C-NAV-H&F-006|C-NAV-H&F-008|C-CLI-REG-009|C-CLI-REG-010 dbustamante 03/02/2020 -->
+    <!--%@ include file="Footer_UI.jspf" %-->
+    <script type="text/javascript">
+     $( window ).on( "load", function() {
+                //Make sure page is loaded at this point
+                //Set requestedSubmitted to false
+                resetRequest();
+        });
+    </script>
+    <!-- END Footer.jsp -->
+   </div>
+  </div>
+  <!-- BEGIN LayoutPreviewSetup.jspf-->
+  <!-- layoutPreviewLayoutId/Name/Default needs to be set before calling widgetImport  -->
+  <!-- END LayoutPreviewSetup.jspf-->
+  <script src="/J3S_Im6_Nd/PHEX1k/aBfu/buw3r2haOQ/YXVAWAE/TQ9NXHF/RVQc" type="text/javascript">
+  </script>
+  <!-- END SearchResultsDisplay.jsp -->
+ </body>
+</html>
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
